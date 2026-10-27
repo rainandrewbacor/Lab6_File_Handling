@@ -12,6 +12,13 @@
         "304": 21
     },
     "Overall Status Code Count": 166,
+    "Five Most Requested URLs": {
+        "GET / HTTP/1.1": 47,
+        "POST /process.php HTTP/1.1": 35,
+        "GET /contestproblem.php?name=RUET%20OJ%20Server%20Testing%20Contest HTTP/1.1": 34,
+        "GET /home.php HTTP/1.1": 9,
+        "GET /logout.php HTTP/1.1": 7
+    },
     "Filtered CSV File": "Bacor_TUPM-26-1879_webanalysis.csv",
     "JSON Summary File": "Bacor_TUPM-26-1879_webanalysis_summary.json"
 }
