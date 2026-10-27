@@ -1,0 +1,5 @@
+Student: Bacor
+Student ID: TUPM-26-1879
+Seed: 9
+ID Sum: 33
+Verification value: 174

@@ -1,0 +1,12 @@
+PYTHON FILE-HANDLING PROCESSING REPORT
+--------------------------------------
+Last name: Bacor
+Student ID: TUPM-26-1879
+Seed Digit: 9
+ID Sum: 33
+Verification Value: 174
+Dataset Sample Size: 83
+Valid Records: 83
+Average Global ACtive Power: 3.924
+JSON File: Bacor_TUPM-26-1879_record.json
+Backup File: Bacor_TUPM-26-1879_record.csv
