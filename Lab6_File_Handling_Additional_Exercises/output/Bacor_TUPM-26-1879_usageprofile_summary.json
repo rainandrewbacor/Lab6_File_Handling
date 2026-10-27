@@ -1,0 +1,12 @@
+{
+    "Seed Digit": 9,
+    "Operating System": "iOS",
+    "User Behavior Class": 5,
+    "Selected Row Count": "31",
+    "Average Battery Drain (mAh/day)": "1306.0 mAh/day",
+    "Average Data Usage (MB/day)": "828.0 MB/day",
+    "Exported CSV File": "Bacor_TUPM-26-1879_usageprofile.csv",
+    "Exported Row Count": "31",
+    "Count Verification": "PASSED",
+    "JSON Summary File": "Bacor_TUPM-26-1879_usageprofile_summary.json"
+}

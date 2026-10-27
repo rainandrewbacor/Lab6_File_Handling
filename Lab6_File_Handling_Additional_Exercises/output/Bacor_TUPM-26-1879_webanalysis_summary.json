@@ -1,0 +1,17 @@
+{
+    "ID Sum": 33,
+    "Seed Digit": 9,
+    "Processed Records Row Count": 1033,
+    "Valid Records Row Count": "1033",
+    "Inalid Records Row Count": 0,
+    "Missing Records Row Count": 0,
+    "Target Status Class": "3xx",
+    "Target Class Row Count": "166",
+    "Counts per Status Code": {
+        "302": 145,
+        "304": 21
+    },
+    "Overall Status Code Count": 166,
+    "Filtered CSV File": "Bacor_TUPM-26-1879_webanalysis.csv",
+    "JSON Summary File": "Bacor_TUPM-26-1879_webanalysis_summary.json"
+}
