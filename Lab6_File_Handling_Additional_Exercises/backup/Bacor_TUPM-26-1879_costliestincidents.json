@@ -1,1 +1,62 @@
-[]
+[
+    {
+        "Country": "France",
+        "Year": "2024",
+        "Attack Type": "Ransomware",
+        "Target Industry": "Retail",
+        "Financial Loss (in Million $)": "99.03",
+        "Number of Affected Users": "349008",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Zero-day",
+        "Defense Mechanism Used": "Encryption",
+        "Incident Resolution Time (in Hours)": "20"
+    },
+    {
+        "Country": "Japan",
+        "Year": "2024",
+        "Attack Type": "DDoS",
+        "Target Industry": "Healthcare",
+        "Financial Loss (in Million $)": "99.28",
+        "Number of Affected Users": "589898",
+        "Attack Source": "Unknown",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "VPN",
+        "Incident Resolution Time (in Hours)": "59"
+    },
+    {
+        "Country": "Russia",
+        "Year": "2024",
+        "Attack Type": "SQL Injection",
+        "Target Industry": "Education",
+        "Financial Loss (in Million $)": "99.31",
+        "Number of Affected Users": "362492",
+        "Attack Source": "Insider",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "63"
+    },
+    {
+        "Country": "China",
+        "Year": "2024",
+        "Attack Type": "DDoS",
+        "Target Industry": "Banking",
+        "Financial Loss (in Million $)": "99.99",
+        "Number of Affected Users": "755185",
+        "Attack Source": "Unknown",
+        "Security Vulnerability Type": "Weak Passwords",
+        "Defense Mechanism Used": "Encryption",
+        "Incident Resolution Time (in Hours)": "20"
+    },
+    {
+        "Country": "France",
+        "Year": "2024",
+        "Attack Type": "Phishing",
+        "Target Industry": "Retail",
+        "Financial Loss (in Million $)": "98.95",
+        "Number of Affected Users": "354954",
+        "Attack Source": "Nation-state",
+        "Security Vulnerability Type": "Social Engineering",
+        "Defense Mechanism Used": "AI-based Detection",
+        "Incident Resolution Time (in Hours)": "14"
+    }
+]

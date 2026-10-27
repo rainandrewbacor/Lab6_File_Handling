@@ -3,14 +3,14 @@ CYBERSECURITY INCIDENT REPORT:
 Target Year: 2024
 Dataset Incident Count: 3000
 Target Year Incident Count: 299
-Total Financial Losses: 15434.29
-Average Financial Losses: 51.62
+Total Financial Losses: $15434.29M
+Average Financial Losses: $51.62M
 Five Costliest Incidents
-1: Country: France     | Attack Type: Ransomware      | Financial Loss: $99.03 million
-2: Country: Japan      | Attack Type: DDoS            | Financial Loss: $99.28 million
-3: Country: Russia     | Attack Type: SQL Injection   | Financial Loss: $99.31 million
-4: Country: China      | Attack Type: DDoS            | Financial Loss: $99.99 million
-5: Country: France     | Attack Type: Phishing        | Financial Loss: $98.95 million
+1: Country: France     | Attack Type: Ransomware      | Financial Loss: $99.03M
+2: Country: Japan      | Attack Type: DDoS            | Financial Loss: $99.28M
+3: Country: Russia     | Attack Type: SQL Injection   | Financial Loss: $99.31M
+4: Country: China      | Attack Type: DDoS            | Financial Loss: $99.99M
+5: Country: France     | Attack Type: Phishing        | Financial Loss: $98.95M
 Filtered CSV File: output\Bacor_TUPM-26-1879_filteredincidents.csv
 JSON Summary File: output\Bacor_TUPM-26-1879_costliestincidents.json
 Backup File: output\Bacor_TUPM-26-1879_costliestincidents.json
